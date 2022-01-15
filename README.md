@@ -1,2 +1,2 @@
-# filling_station_management_system
-The powerful, multi-module management system for fuel filling stations 
+# Fuel Stations Management System
+The powerful, multi-module management system for fuel stations in Tanzania. 
